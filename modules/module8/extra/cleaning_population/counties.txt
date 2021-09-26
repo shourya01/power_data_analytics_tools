@@ -1,0 +1,9 @@
+Alameda
+Los Angeles
+Merced
+Riverside
+San Diego
+San Mateo
+Santa Barbara
+Santa Clara
+Santa Cruz

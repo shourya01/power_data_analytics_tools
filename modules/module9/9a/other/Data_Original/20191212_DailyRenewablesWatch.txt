@@ -1,0 +1,57 @@
+12/12/19			Hourly Breakdown of Renewable Resources (MW)														
+	Hour		GEOTHERMAL	BIOMASS		BIOGAS		SMALL HYDRO	WIND TOTAL	SOLAR PV	SOLAR THERMAL						
+	1		542		332		192		197		1602		0		0		
+	2		542		332		193		196		1555		0		0		
+	3		542		337		192		196		1539		0		0		
+	4		549		333		192		197		1609		0		0		
+	5		549		341		191		204		1563		0		0		
+	6		549		346		190		222		1519		0		0		
+	7		550		356		185		304		1410		0		0		
+	8		554		355		190		308		1305		983		0		
+	9		555		360		200		303		1154		3682		0		
+	10		561		359		203		275		1259		5553		0		
+	11		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		1208		6208		0		
+	12		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		1145		6487		0		
+	13		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		[-11059] No Good Data For Calculation		1373		6168		0		
+	14		647		355		202		182		1585		5960		0		
+	15		666		358		203		257		1627		5211		0		
+	16		665		360		204		298		1782		3252		0		
+	17		688		359		205		316		2002		312		0		
+	18		709		362		195		366		1753		6		0		
+	19		712		359		187		369		1709		7		0		
+	20		738		360		195		335		1901		7		0		
+	21		743		359		199		328		1981		7		0		
+	22		748		359		204		316		2090		7		0		
+	23		749		345		208		289		2111		7		0		
+	24		748		333		207		242		2073		8		0		
+																	
+																	
+			Hourly Breakdown of Total Production by Resource Type (MW)														
+	Hour		RENEWABLES	NUCLEAR		THERMAL		IMPORTS		HYDRO							
+	1		2829		1099		9167		7047		1860						
+	2		2781		1099		8585		7133		1515						
+	3		2769		1097		8373		7030		1293						
+	4		2842		1097		8110		6995		1476						
+	5		2810		1098		8401		7211		1574						
+	6		2787		1099		8459		8157		2115						
+	7		2799		1106		9474		9177		2527						
+	8		3693		1121		10086		9042		2336						
+	9		6253		1109		9589		7058		1890						
+	10		8070		1099		8777		5750		1468						
+	11		7416		1099		9286		4984		1403						
+	12		7632		1098		8660		4972		1265						
+	13		7542		1098		8828		5144		914						
+	14		8192		1098		8298		5417		1093						
+	15		8322		1098		8165		5747		1281						
+	16		6561		1098		9422		6634		1773						
+	17		3883		1098		10431		8648		2827						
+	18		3390		1098		11478		9847		3114						
+	19		3342		1098		10964		10375		2963						
+	20		3536		1098		10714		10013		2904						
+	21		3617		1100		10418		9785		2710						
+	22		3723		1099		9829		9375		2358						
+	23		3707		1099		9040		8436		2213						
+	24		3611		1100		7699		8540		1691						
+																	
+The data found in the Daily Renewables Watch report will be integrated into various areas of Today's Outlook in 2021.																	
+Details on the migration of the data will be provided in advance of the launch.																	

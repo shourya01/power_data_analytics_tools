@@ -1,0 +1,12 @@
+1. download.py
+2. remove_rows.py
+3. append_data.py
+4. multi_csv.py
+5. rm_end_commas.py
+6. rm_end_rows.py
+7. change_column_names.py
+8. rename_files.py
+9. Remove 20191114_DailyRenewablesWatch.csv, 20191212_DailyRenewablesWatch.csv, and 20200312_DailyRenewablesWatch.csv
+9. delete_duplicate_col.py
+10. insert_timestamps.py
+11. merge_files.py
