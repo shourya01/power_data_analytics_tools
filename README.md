@@ -8,11 +8,11 @@ The code is organized in modules, which can be found in the folder 'modules'. Al
 
 ## Modules
 
-**Module 1**: This module contains code for linear regression of power demand data. Subfolders '1a', '1b', and '1c' in the main folder each contain code which essentially do the same aforementioned thing, but have been wrriten by different people.
-**Datasets Used**: Dataset 1
-**Authorship**:
-'1a' - Alex
-'1b' - Michaela
+**Module 1**: This module contains code for linear regression of power demand data. Subfolders '1a', '1b', and '1c' in the main folder each contain code which essentially do the same aforementioned thing, but have been wrriten by different people.  
+**Datasets Used**: Dataset 1  
+**Authorship**:  
+'1a' - Alex  
+'1b' - Michaela  
 '1c' - Pranav
 
 **Module 2**: This module contains code which tries to find optimal polynomial degree for regression in power demand data. This is done by computing the polynomial degree which results in the lowest loss over the dataset.  
