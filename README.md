@@ -4,7 +4,7 @@
 # About
 This repository contains code for some basic analysis, forecast, and cleanup of electric power generation and consumption data. This code was written as a part of Science Internship Program (SIP) 2021 at UC Santa Cruz by Alexandra 'Alex' Weiss, Michaela Chou, and Pranav Amarnath, and the project was mentored by Shourya Bose.
 
-The code is organized in modules, which can be found in the folder 'modules'. All datasets used for this project can be found in the folder 'datasets', and was sourced from the open internet. The description of the modules and datasets follow. Please see the description of the modules for knowing about their respective authors.
+The code is organized in modules, which can be found in the folder 'modules'. All datasets used for this project can be found in the folder 'datasets', and were sourced from the open internet. Descriptions of modules and datasets follow, and module descriptions contain respective authorship information.
 
 ## Modules
 
